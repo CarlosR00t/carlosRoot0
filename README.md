@@ -11,7 +11,7 @@ mas pode me chamar de Audaz
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/carlosRoot0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosRoot0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosRoot0&layout=compact&langs_count=7&theme=dark"/>
@@ -19,7 +19,6 @@ mas pode me chamar de Audaz
 
 <div style="display: inline_block">
   <h2>✅Tecnologias adquiridas</h2>
-  
   <img align="center" alt="Audaz-UBUNTU" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Audaz-REDHAT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
   <img align="center" alt="Audaz-BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
